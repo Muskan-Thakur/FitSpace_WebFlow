@@ -1,7 +1,9 @@
 # FitSpace_WebFlow
 **LINK:** https://mino-top-notch-site.webflow.io/
 
-"Welcome to **WEBFLOW_PROJECT** While traditionally, code repositories on GitHub contain raw code, this repository is a bit different. Here, you'll find an exported version of our project built using Webflow, a **powerful web design and development platform**.
+"Welcome to **WEBFLOW_PROJECT**"
+
+While traditionally, code repositories on GitHub contain raw code, this repository is a bit different. Here, you'll find an exported version of our project built using Webflow, a **powerful web design and development platform**.
 
 Please note that since this is an exported version, we don't have access to the raw HTML, CSS, and JavaScript files typically associated with GitHub repositories. Instead, you'll find the *Link* of the project  which encapsulate the design and interactions of our project.
 
