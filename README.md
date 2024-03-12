@@ -9,7 +9,7 @@ Please note that since this is an exported version, we don't have access to the 
 
 **Objective:**
 
-Creating a dynamic website for a fictional fitness studio named "FitSpace Studio." The website highlight the studio's fitness programs and trainers but also include a class booking feature that allows users to view class schedules and book sessions. This project aims to assess the proficiency with Webflow, focusing on design creativity, user experience.
+Creating a dynamic website for a fictional fitness studio named "FitSpace Studio." The website highlight the studio's fitness programs and trainers also include a class booking feature that allows users to view class schedules and book sessions. This project aims to assess the proficiency with Webflow, focusing on design creativity, user experience.
 
 **Core Requirements:**
 
